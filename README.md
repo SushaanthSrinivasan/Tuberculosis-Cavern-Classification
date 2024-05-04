@@ -17,3 +17,4 @@ Submitted to [ImageCLEF 2022 Tuberculosis - Caverns Report](https://www.imagecle
 
 - **Leaderboard**: Click [here.](https://www.aicrowd.com/challenges/imageclef-2022-tuberculosis-caverns-report/leaderboards) (Name of our team is KL_BP_SSN.)
 - **AICrowd Task Page**: Click [here.](https://www.aicrowd.com/challenges/imageclef-2022-tuberculosis-caverns-report)
+- **Paper**: Click [here.](https://ceur-ws.org/Vol-3180/paper-119.pdf)
